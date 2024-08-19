@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="restaurantLogo" />
+    <item type="id" name="imagePastelChoclo" />
+    <item type="id" name="labelPastelChoclo" />
+    <item type="id" name="inputCantidadPastelChoclo" />
+    <item type="id" name="subtotalPastelChoclo" />
+    <item type="id" name="imageCazuela" />
+    <item type="id" name="labelCazuela" />
+    <item type="id" name="inputCantidadCazuela" />
+    <item type="id" name="subtotalCazuela" />
+    <item type="id" name="totalComida" />
+    <item type="id" name="switchPropina" />
+    <item type="id" name="total" />
+</resources>
